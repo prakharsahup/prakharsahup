@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hello! I'm Prakhar Sahu, a B.Tech. student studying Computer Science with a strong interest in software development and AI. I enjoy building intelligent systems and exploring how LLMs and AI can shape the future of technology.
 
 
 ## 🌐 Socials:
